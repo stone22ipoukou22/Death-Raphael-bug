@@ -1,33 +1,33 @@
-//base by Limule Solitarus 
+//base by Karma_Lucifero
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +242066328691
-//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
+//YouTube: @King_Karma
+//Instagram: Karma Adam's 
+//Telegram: t.me/Licifero
+//GitHub: @Karma69
+//WhatsApp: +242064568501
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@King_Karma
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242066328691"
-global.ownername = "dark joker"
-global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: dark345"
-global.location = "India, Rampur, city"
+global.ownernomer = "242064568501"
+global.ownername = "𝐋𝐔𝐂𝚰𝐅𝚵𝚪𝚯"
+global.ytname = "YT: Karma"
+global.socialm = "GitHub: Karma6969"
+global.location = "Congo, Brazzaville"
 
-global.ownernumber ='242066328691'  //creator number
-global.ownername = '242066328691' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownernumber ='242064568501'  //creator number
+global.ownername = '242064568501' //owner name
+global.botname = '𝐋𝐔𝐂𝚰𝐅𝚵𝚪𝚯' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +242066328691'
+global.author = '𝐊𝐀𝐑𝐌𝐀\n\nContact: +242064568501
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "𝐊𝐀𝐑𝐌𝐀 𝐊𝐄𝐘'𝐒 Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
